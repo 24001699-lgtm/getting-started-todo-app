@@ -1,8 +1,6 @@
 const GREETINGS = [
-  "Tao là Bùi Tiến Thành!",
-  "Chúng mày là con tao!",
-  "Mấy thằng nhóc!",
-  "Nhìn cái chó gì"
+  "Xin chào thế giới",
+  "Đây là hiển thị của lời chào",
 ];
 
 module.exports = async (req, res) => {
